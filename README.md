@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pravesh Agarwal</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gettingstarted2020&label=Profile%20views&color=0e75b6&style=flat" alt="gettingstarted2020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pravesh-Agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Pravesh-Agarwal" /> </p>
 
-- 🌱 I’m currently learning **Excel , Power BI , SQL , Python , Canva**
+- 🌱 I’m currently learning **Excel , Power BI , SQL , Python**
 
 - 👨‍💻 All of my projects are available on [novyPro](https://www.novypro.com/profile_projects/pravesh-agarwal)
 
