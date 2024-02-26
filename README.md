@@ -2,6 +2,8 @@
 
 <br />
 
+<img align="right" alt="data science" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
+
 I'm an aspiring data analyst from India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravesh-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh-agarwal" /> </p>
