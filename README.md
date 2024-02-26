@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pravesh-Agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Pravesh-Agarwal" /> </p>
 
-- 🌱 I’m currently learning **Excel , Power BI , SQL , Python**
+- 🌱 I’m currently learning **Excel, Power BI, SQL, Python**
 
 - 👨‍💻 All of my projects are available on [novyPro](https://www.novypro.com/profile_projects/pravesh-agarwal)
 
