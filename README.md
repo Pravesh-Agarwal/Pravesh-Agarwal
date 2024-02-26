@@ -2,7 +2,7 @@
 
 <br />
 
-I'm an aspiring data analyst from India 🇮🇳
+I'm an aspiring data analyst from India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravesh-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh-agarwal" /> </p>
 
