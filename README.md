@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pravesh Agarwal</h1>
-<h3 align="center">Aspiring Data Analyst from India.</h3>
+<p align="center"><img width="80%" alt="Hello, I'm Pravesh Agarwal. I do data analysis!" src="./assets/readme-header.png" /></p>
+
+<br />
+
+I'm an aspiring data analyst from India 🇮🇳
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravesh-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh-agarwal" /> </p>
+
+**About me**
 
 - 🌱 I’m currently learning **Excel, Power BI and SQL**
 
