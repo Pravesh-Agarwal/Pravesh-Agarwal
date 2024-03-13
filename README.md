@@ -12,7 +12,7 @@ I'm an aspiring data analyst from India 🇮🇳
 
 - 🌱 I’m currently learning **Excel, Power BI and SQL**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/pravesh-agarwal](https://www.novypro.com/profile_projects/pravesh-agarwal)
+- 👨‍💻 All of my projects are available [here](https://www.novypro.com/profile_projects/pravesh-agarwal)
 
 - 📫 How to reach me **praveshagarwal80@gmail.com**
 
