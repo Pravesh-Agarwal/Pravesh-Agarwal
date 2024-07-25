@@ -16,7 +16,7 @@ I'm an aspiring data analyst from India 🇮🇳
 
 - 📫 How to reach me **praveshagarwal80@gmail.com**
 
-- ⚡ Fun fact - **A Mechanical Engineer Turned Marine Engineer Turned IT Professional**
+- ⚡ Fun fact - **A Marine Engineer Turned IT Professional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
