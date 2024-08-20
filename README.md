@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=50&duration=3500&lines=नमस्ते+(Namaste)+🙏🏽;+I'm+Pravesh+Agarwal+👋🏽;Nice+to+meet+you!+🤝🏽" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=80&duration=5000&lines=नमस्ते+(Namaste)+🙏🏽;+I'm+Pravesh+Agarwal+👋🏽;Nice+to+meet+you!+🤝🏽" />
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=pravesh-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh-agarwal" /> [![Linkedin Badge](https://img.shields.io/badge/-Pravesh_Agarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pravesh-agarwal27/)](https://www.linkedin.com/in/pravesh-agarwal27/) 
