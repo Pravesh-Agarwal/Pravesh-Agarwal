@@ -1,33 +1,56 @@
-<p align="center"><img width="80%" alt="Hello, I'm Pravesh Agarwal. I do data analysis!" src="./assets/readme-header.png" /></p>
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=50&duration=3500&lines=नमस्ते+(Namaste)+🙏🏽;+I'm+Pravesh+Agarwal+👋🏽;Nice+to+meet+you!+🤝🏽" />
+</h1>
 
-<br />
+<img src="https://komarev.com/ghpvc/?username=pravesh-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh-agarwal" /> [![Linkedin Badge](https://img.shields.io/badge/-Pravesh_Agarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pravesh-agarwal27/)](https://www.linkedin.com/in/pravesh-agarwal27/) 
+[![Gmail Badge](https://img.shields.io/badge/-praveshagarwal80@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:praveshagarwal80@gmail.com)](mailto:praveshagarwal80@gmail.com)
 
-<img align="right" alt="data science" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 
-I'm an aspiring data analyst from India 🇮🇳
+<img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravesh-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh-agarwal" /> </p>
+<h3>
+Hi, I’m Pravesh Agarwal, Data Analyst & Ex Merchant Marine from India 🇮🇳
+</h3>
 
-**About me**
+- 📊 Passionate about transforming data into actionable insights
 
-- 🌱 I’m currently learning **Excel, Power BI and SQL**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available [here](https://www.novypro.com/profile_projects/pravesh-agarwal)
+- 👨‍💻 All of my links are available [here](https://pravesh_agarwal.bio.link)
 
-- 📫 How to reach me **praveshagarwal80@gmail.com**
+- 💬 Feel free to ask me about Data Analysis or My Journey
 
 - ⚡ Fun fact - **A Marine Engineer Turned IT Professional**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
+<br>
 
-<a href="https://linkedin.com/in/pravesh-agarwal2708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravesh-agarwal2708" height="30" width="40" /></a>
+## 💻 Languages and Tools:
+
+<p>
+    <a>
+        <img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/exel.png" alt="excel" width="40" height="40"/>
+    </a>  
+    <a>
+        <img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/power%20bi.png" alt="PowerBI" width="40" height="40"/>
+    </a> 
+    <a>
+        <img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/python-original.svg" alt="python" width="40" height="40"/>
+    </a>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<br>
+
+## 👦 About Me:
+I am a passionate Data Analyst with a robust foundation in problem-solving and analytical thinking, rooted in my Marine Engineering background. My transition to data analytics has given me a unique perspective, combining technical expertise with the ability to adapt to dynamic and high-pressure environments.
+
+Proficient in Microsoft Excel, Power BI, SQL, and Python, I excel at turning complex data into actionable insights and impactful presentations. My GitHub showcases a range of projects reflecting my analytical skills and dedication to excellence in data analysis.
+
+I am actively seeking opportunities for career growth and hands-on experience in data analytics. Eager to contribute to a dynamic team, I aim to drive strategic decision-making through innovative, data-driven solutions. Let’s connect and explore how we can collaborate on exciting data analytics projects.
+
+<h5>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=70&duration=5500&lines=Thanks+For+Visiting!+✌🏽;+Hit+me+up+on+Linkedin!+📧;+I'm+always+down+to+collab+🤝🏽;" />
+</h5>
