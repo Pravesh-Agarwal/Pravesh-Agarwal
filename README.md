@@ -12,13 +12,17 @@
 Hi, I’m Pravesh Agarwal, Data Analyst & Ex Merchant Marine from India 🇮🇳
 </h3>
 
-- 📊 Passionate about transforming data into actionable insights
+- 📊 Passionate about transforming raw data into actionable insights.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**.
 
-- 👨‍💻 All of my links are available [here](https://pravesh_agarwal.bio.link)
+- 💡 Skilled in crafting reports that don't just show numbers, but actually help you understand what they mean.
 
-- 💬 Feel free to ask me about Data Analysis or My Journey
+- 🚀 Constantly seeking opportunities to solve real-world problems with data, one dashboard at a time.
+
+- 👨‍💻 All of my links are available [here](https://pravesh_agarwal.bio.link).
+
+- 💬 Feel free to ask me about Data Analysis or My Journey.
 
 - ⚡ Fun fact - **A Marine Engineer Turned IT Professional**
 
