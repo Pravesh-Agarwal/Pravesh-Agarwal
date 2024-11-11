@@ -59,5 +59,5 @@ Proficient in Microsoft Excel, Power BI, SQL, and Python, I excel at turning com
 I am actively seeking opportunities for career growth and hands-on experience in data analytics. Eager to contribute to a dynamic team, I aim to drive strategic decision-making through innovative, data-driven solutions. Let’s connect and explore how we can collaborate on exciting data analytics projects.
 
 <h5>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Visiting!+✌🏽;+Hit+me+up+on+Linkedin!+📧;+I'm+always+down+to+collab+🤝🏽;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Stopping+By!+✌🏽;+Hit+me+up+on+Linkedin!+📧;+Have+a+Nice+Day!+✨;" />
 </h5>
