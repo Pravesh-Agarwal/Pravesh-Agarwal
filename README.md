@@ -52,12 +52,35 @@ Hi, I’m Pravesh Agarwal, Data Analyst & Ex Merchant Marine from India 🇮🇳
 <br>
 
 ## 👦 About Me:
-I am a passionate Data Analyst with a robust foundation in problem-solving and analytical thinking, rooted in my Marine Engineering background. My transition to data analytics has given me a unique perspective, combining technical expertise with the ability to adapt to dynamic and high-pressure environments.
+### 👋 Hi there!
 
-Proficient in Microsoft Excel, Power BI, SQL, and Python, I excel at turning complex data into actionable insights and impactful presentations. My GitHub showcases a range of projects reflecting my analytical skills and dedication to excellence in data analysis.
+I'm **Pravesh Agarwal**, a Data Analyst with an engineering foundation and a passion for turning raw data into impactful insights. My focus is on exploring the nuances of data analytics to drive meaningful business decisions.
 
-I am actively seeking opportunities for career growth and hands-on experience in data analytics. Eager to contribute to a dynamic team, I aim to drive strategic decision-making through innovative, data-driven solutions. Let’s connect and explore how we can collaborate on exciting data analytics projects.
+### 🌟 What I Bring to the Table
+
+- **📊 Data Visualization**: Crafting visuals that distill complex datasets into clear, actionable insights.
+- **🔍 Data Analytics**: Diving deep into numbers to uncover trends, patterns, and opportunities.
+- **🧼 Data Cleaning & Modeling**: Ensuring data integrity through standardization, deduplication, and other essential techniques for high-quality analysis.
+- **📝 Reporting & Dashboarding**: Developing dashboards that tell a story, making data engaging and informative.
+- **📈 Business Intelligence**: Enabling strategic decisions through data-driven insights.
+- **📖 Data Storytelling**: Transforming numbers into narratives that resonate with audiences.
+
+### 📍 Technical Skills
+
+- **📐 Power BI**: Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.
+- **🛢️ SQL**: Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.
+- **📊 MS Excel**: Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.
+- **🐍 Python**: Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.
+- **🛠️ Other Tools**: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.
+
+---
+
+If you're looking for a data analyst with a knack for translating numbers into value, let’s connect! Reach me on [LinkedIn](https://www.linkedin.com/in/pravesh-agarwal27/) or via [Email](mailto:praveshagarwal80@gmail.com).
+
+**Regards,**
+Your Next Data Analyst ✨
+
 
 <h5>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Stopping+By!+✌🏽;+Hit+me+up+on+Linkedin!+📧;+Have+a+Nice+Day!+✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Stopping+By!+✌🏽;+Have+a+Nice+Day!+✨;" />
 </h5>
