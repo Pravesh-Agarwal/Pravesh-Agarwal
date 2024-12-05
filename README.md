@@ -54,7 +54,7 @@ Hi, I’m Pravesh Agarwal, Data Analyst & Ex Merchant Marine from India 🇮🇳
 ## 👦 About Me:
 ### 👋 Hi there!
 
-I'm **Pravesh Agarwal**, a Data Analyst with an engineering foundation and a passion for turning raw data into impactful insights. My focus is on exploring the nuances of data analytics to drive meaningful business decisions.
+I'm **Pravesh Agarwal**, a passionate data analyst with a dynamic background in engineering and a knack for uncovering insights that drive impactful decisions. From navigating ships as a Marine Engineer to navigating datasets as an Analyst, I thrive on solving complex problems with data-driven strategies.
 
 ### 🌟 What I Bring to the Table
 
