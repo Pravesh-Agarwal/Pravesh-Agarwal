@@ -51,7 +51,7 @@ Hi, I’m Pravesh Agarwal, Data Analyst & Ex Merchant Marine from India 🇮🇳
 
 <br>
 
-## <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="30" height="30" align="top"/> Power BI Dashboards
+## <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="30" height="30" align="top"/> Power BI Dashboards:
 <p>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiZmY4ZWVjZWItYWQ1MC00ODliLThhZjAtOWYxYjZhMWEzZjU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=7215aff20df6b576b6e5"><img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/Project%20Thumbnails/Goodcabs-Operations-Analysis.png" width ="30%"></a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiZDVmNGNhZmUtNGU3Yi00NjU0LWE3MTAtNGM1OTEwZjAwZmRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"><img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/Project%20Thumbnails/Shield-Insurance-BI-Dashboard.png" width ="30%"></a>
@@ -60,9 +60,19 @@ Hi, I’m Pravesh Agarwal, Data Analyst & Ex Merchant Marine from India 🇮🇳
     <a href="https://app.powerbi.com/view?r=eyJrIjoiMWE1M2Q3ODctYzljZC00M2NjLTgwYmQtOWI0NWY5ZDY5MDU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true"><img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/Project%20Thumbnails/Business-Insights-360-BI-Dashboard.png" width ="30%"></a>
 </p>
 
-## <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="mysql" width="30" height="30" align="top"/> SQL Project
+## <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="mysql" width="30" height="30" align="top"/> SQL Project:
 <p>
     <a href="https://github.com/Pravesh-Agarwal/Consumer-Goods-Ad-Hoc-Insights"><img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/Project%20Thumbnails/Consumer-Goods-Ad-Hoc-Insights.png" width ="30%"></a>
+</p>
+
+## <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="30" height="30" align="top"/> Python Project:
+<p>
+    <a href="https://github.com/Pravesh-Agarwal/AtliQ-Hospitality-Analysis-Python"><img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/Project%20Thumbnails/AtliQ-Hospitality-Analysis-Python.png" width ="30%"></a>
+</p>
+
+## <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" width="30" height="30" align="top"/> Excel Project:
+<p>
+    <a href="https://github.com/Pravesh-Agarwal/Excel-Sales-Analytics"><img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/Project%20Thumbnails/Excel-Sales-Analytics.png" width ="30%"></a>
 </p>
 
 ## 👦 About Me:
