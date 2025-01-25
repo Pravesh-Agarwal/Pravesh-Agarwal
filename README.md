@@ -75,6 +75,14 @@ Hi, I’m Pravesh Agarwal, Data Analyst & Ex Merchant Marine from India 🇮🇳
     </a>
 </p>
 
+## <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="mysql" width="30" height="30" align="top"/> SQL Project
+<p>
+    <a> 
+        <href="https://github.com/Pravesh-Agarwal/Consumer-Goods-Ad-Hoc-Insights">
+        <img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/Project%20Thumbnails/Consumer-Goods-Ad-Hoc-Insights.png" width ="30%">
+    </a>
+</p>
+
 ## 👦 About Me:
 ### 👋 Hi there!
 
