@@ -104,7 +104,12 @@ If you're looking for a data analyst with a knack for translating numbers into v
 **Regards,**
 Your Next Data Analyst ✨
 
-
 <h5>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Stopping+By!+✌🏽;+Have+a+Nice+Day!+✨;" />
 </h5>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pravesh-Agarwal/Pravesh-Agarwal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pravesh-Agarwal/Pravesh-Agarwal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Pravesh-Agarwal/Pravesh-Agarwal/output/github-snake.svg" />
+</picture>
