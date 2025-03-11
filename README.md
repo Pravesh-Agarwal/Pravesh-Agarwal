@@ -75,6 +75,20 @@ Hi, I’m Pravesh Agarwal, Data Analyst & Ex Merchant Marine from India 🇮🇳
     <a href="https://github.com/Pravesh-Agarwal/Excel-Sales-Analytics"><img src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/Project%20Thumbnails/Excel-Sales-Analytics.png" width ="30%"></a>
 </p>
 
+## 🏅 Awards:
+### • 🥇 **1st Position - Codebasics Resume Project Challenge #13** [ [Certificate](https://codebasics.io/certificate/CB-CH-1-16-146862-2257) | [GitHub Repository](https://github.com/Pravesh-Agarwal/Goodcabs-Operations-Analysis) | [LinkedIn Post](https://www.linkedin.com/posts/pravesh-agarwal27_rpc13-codebasics-codebasicsresumeprojectchallenge-activity-7281602955978420224-dEcn?utm_source=share&utm_medium=member_desktop&rcm=ACoAABUNLUsBpx2zxrDDwtwQriWSo2OomGSWjSU) ]
+### • 🥈 **2nd Position - Codebasics Resume Project Challenge #10** [ [Certificate](https://codebasics.io/certificate/CB-CH-1-13-146862-1845) | [GitHub Repository](https://github.com/Pravesh-Agarwal/IPL-Analysis) | [LinkedIn Post](https://www.linkedin.com/posts/pravesh-agarwal27_resumeprojectchallenge-datadrivendecisions-activity-7190778010944290817-rQC8?utm_source=share&utm_medium=member_desktop&rcm=ACoAABUNLUsBpx2zxrDDwtwQriWSo2OomGSWjSU) ]
+### • 🏆 **Community Champion - Codebasics** [ [Certificate](https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/Awards/Community%20Champion%20Certificate%20-%20Codebasics.png) ]
+
+## 🧑🏽‍🎓 Certificates:
+### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **HackerRank - SQL Advanced** [ [Certificate](https://www.hackerrank.com/certificates/1870361e6945) ]
+### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **HackerRank - SQL Intermediate** [ [Certificate](https://www.hackerrank.com/certificates/1c7b2604e503) ]
+### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **HackerRank - SQL Basic** [ [Certificate](https://www.hackerrank.com/certificates/21a35d56fb11) ]
+### • <img src="https://files.codebasics.io/v3/images/sticky-logo.svg" alt="Codebasics" width="40" height="25" align="top"/> **Codebasics - Python For Beginner and Intermediate Learners** [ [Certificate](https://codebasics.io/certificate/CB-48-146862) ]
+### • <img src="https://files.codebasics.io/v3/images/sticky-logo.svg" alt="Codebasics" width="40" height="25" align="top"/> **Codebasics - SQL Beginner to Advanced For Data Professionals** [ [Certificate](https://codebasics.io/certificate/CB-50-146862) ]
+### • <img src="https://files.codebasics.io/v3/images/sticky-logo.svg" alt="Codebasics" width="40" height="25" align="top"/> **Codebasics - Get Job Ready: Power BI Data Analytics for All Levels 3.0** [ [Certificate](https://codebasics.io/certificate/CB-49-146862) ]
+### • <img src="https://files.codebasics.io/v3/images/sticky-logo.svg" alt="Codebasics" width="40" height="25" align="top"/> **Codebasics - Excel: Mother of Business Intelligence** [ [Certificate](https://codebasics.io/certificate/CB-51-146862) ]
+
 ## 👦 About Me:
 ### 👋 Hi there!
 
