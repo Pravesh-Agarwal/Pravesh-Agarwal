@@ -11,12 +11,12 @@
 <img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
 
 <h3>
-Hi, I’m Pravesh Agarwal, Data Analyst & Ex Merchant Marine from India 🇮🇳
+Hi, I’m Pravesh Agarwal, Data Analyst @ABB & Ex Merchant Marine from India 🇮🇳
 </h3>
 
 - 📊 Passionate about transforming raw data into actionable insights.
 
-- 🌱 Currently enhancing my **SQL** skills.
+- 🌱 Currently enhancing my **Power Apps** and **Power Automate** skills.
 
 - 💡 Skilled in crafting reports that don't just show numbers, but actually help you understand what they mean.
 
